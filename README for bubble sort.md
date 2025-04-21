@@ -70,7 +70,6 @@ Not suitable for large datasets due to quadratic time complexity.
 
 Great for learning low-level array manipulation and memory access.
 
-Let me know if you'd like to move on to Merge Sort, Quick Sort, or start comparing these algorithms with benchmarks and performance summaries!
 
 
 
